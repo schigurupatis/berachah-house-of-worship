@@ -16,7 +16,7 @@ const PastorItem = () => {
             />
 
             <h2 className="mt-5 text-2xl font-semibold text-gray-900">
-                Nova Babu
+                Pastor M Nova Babu
             </h2>
 
             <p className="mt-2 text-gray-500 text-lg">
